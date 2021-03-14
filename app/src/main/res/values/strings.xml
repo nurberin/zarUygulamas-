@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="sayi">SAYI</string>
+    <string name="salla">SALLA</string>
+    <string name="todo1">TODO</string>
+    <string name="zar_at">ZAR AT</string>
+    <string name="tem_zle">TEMİZLE</string>
+    <string name="todo">TODO</string>
+</resources>
